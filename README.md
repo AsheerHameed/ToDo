@@ -10,3 +10,4 @@ ToDo List App is a app that generally used to maintain our day-to-day tasks or l
 ## Technolgies Used
 1.Dart(Programming Language)<br>
 2.Flutter(Framework)
+3.SQFlite(Database package from flutter)
