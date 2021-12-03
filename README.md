@@ -8,5 +8,5 @@ ToDo List App is a app that generally used to maintain our day-to-day tasks or l
 4.User can delete task that already have been added (Delete)<br>
 
 ###Technolgies Used
-1.Dart(Programming Language)
+1.Dart(Programming Language)<br>
 2.Flutter(Framework)
